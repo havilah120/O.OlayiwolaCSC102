@@ -4,7 +4,7 @@ age = float(input('Enter your Age '))
 
 if experience > 25:
     print ("Your annual tax revenue is #5600000")
-elif age >= 55:
+if age >= 55:
      print ("Your annual tax revenue is #5600000")
 
 if experience > 20:
